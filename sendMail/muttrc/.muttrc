@@ -1,0 +1,6 @@
+set envelope_from=yes
+set from=xujh945@qq.com
+set realname="Owinux"
+set use_from=yes
+set rfc2047_parameters=yes
+set charset="utf-8"

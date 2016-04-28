@@ -1,0 +1,7 @@
+cp .muttrc ~/
+sudo apt-get install sendmail
+sudo apt-get install mutt
+
+
+linux mutt详解
+[ http://blog.sina.com.cn/s/blog_6cde2617010142kp.htm ]
